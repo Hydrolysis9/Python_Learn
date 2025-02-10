@@ -53,20 +53,3 @@ for t in range(1,100):
         print("猜对了,您一共猜了%d次"%t)
         break
     i = int(input('请再输入您猜的数字: '))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
