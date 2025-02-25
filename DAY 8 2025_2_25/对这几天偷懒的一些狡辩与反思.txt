@@ -1,0 +1,4 @@
+这几天在确定python学习的具体方向，寻找兴趣点，杂七杂八看了一点东西就没有坚持更新，真是糟糕，不过最终也是找到方向和兴趣点了
+btw：Python编程从入门到实践这本书感觉还不错
+关于正则表达式的这篇文章也不错
+https://deerchao.cn/tutorials/regex/regex.htm
